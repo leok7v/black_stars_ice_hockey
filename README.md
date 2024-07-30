@@ -1,1 +1,1 @@
-# black_stars_ice_hockey
+# Black Stars Ice Hockey
